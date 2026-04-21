@@ -4,12 +4,28 @@
 
 ## Fichiers Excel pour les exercices PL-300
 
-Telechargement direct, liens faciles a copier, et un fichier consolide des ventes.
+Le plus important ici: recuperer rapidement le bon lien a copier-coller pour suivre les tutos.
 
 [![Fichier consolide](https://img.shields.io/badge/Fichier%20consolide-Ventes.xlsx-1f6feb?style=for-the-badge)](https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Ventes.xlsx)
-[![Telechargement direct](https://img.shields.io/badge/Telecharger-maintenant-2da44e?style=for-the-badge)](https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Ventes.xlsx)
+[![Copier les liens](https://img.shields.io/badge/CTA-Copier%20les%20liens-2da44e?style=for-the-badge)](#zone-copie-rapide)
 
 </div>
+
+## Zone copie rapide
+
+Le CTA principal du depot est ici: prends la ligne voulue, copie le lien, puis colle-le dans le tuto.
+
+```text
+DimProduct.xlsx               https://github.com/votredatacoach/PL-300/raw/refs/heads/main/DimProduct.xlsx
+DimProductCategory.xlsx       https://github.com/votredatacoach/PL-300/raw/refs/heads/main/DimProductCategory.xlsx
+DimProductSubcategory.xlsx    https://github.com/votredatacoach/PL-300/raw/refs/heads/main/DimProductSubcategory.xlsx
+Product.xlsx                  https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Product.xlsx
+Region.xlsx                   https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Region.xlsx
+Salesperson.xlsx              https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Salesperson.xlsx
+SalespersonRegion.xlsx        https://github.com/votredatacoach/PL-300/raw/refs/heads/main/SalespersonRegion.xlsx
+Targets.xlsx                  https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Targets.xlsx
+Ventes.xlsx                   https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Ventes.xlsx
+```
 
 ## Acces rapide
 
@@ -31,22 +47,6 @@ Telechargement direct, liens faciles a copier, et un fichier consolide des vente
 
 ```text
 https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Ventes.xlsx
-```
-
-## Zone copie rapide
-
-Selectionnez la ligne voulue puis copiez-collez directement.
-
-```text
-DimProduct.xlsx               https://github.com/votredatacoach/PL-300/raw/refs/heads/main/DimProduct.xlsx
-DimProductCategory.xlsx       https://github.com/votredatacoach/PL-300/raw/refs/heads/main/DimProductCategory.xlsx
-DimProductSubcategory.xlsx    https://github.com/votredatacoach/PL-300/raw/refs/heads/main/DimProductSubcategory.xlsx
-Product.xlsx                  https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Product.xlsx
-Region.xlsx                   https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Region.xlsx
-Salesperson.xlsx              https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Salesperson.xlsx
-SalespersonRegion.xlsx        https://github.com/votredatacoach/PL-300/raw/refs/heads/main/SalespersonRegion.xlsx
-Targets.xlsx                  https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Targets.xlsx
-Ventes.xlsx                   https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Ventes.xlsx
 ```
 
 ## Astuce
