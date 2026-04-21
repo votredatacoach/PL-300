@@ -1,5 +1,7 @@
 # PL-300
 
+Bienvenue. Pour importer un fichier dans Power Query, cliquez sur `Nouvelle source` puis `Web`, copiez-collez le lien du fichier a importer ci-dessous, puis pensez a renommer votre requete dans Power Query.
+
 ## DimProduct.xlsx
 
 ```text
