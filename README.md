@@ -1,9 +1,5 @@
 # PL-300
 
-Liens directs a copier-coller pour suivre les tutos PL-300.
-
-Chaque section contient uniquement l'URL brute de telechargement du fichier.
-
 ## DimProduct.xlsx
 
 ```text
@@ -53,8 +49,6 @@ https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Targets.xlsx
 ```
 
 ## Ventes.xlsx
-
-Fichier consolide des ventes a partir des extractions mensuelles.
 
 ```text
 https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Ventes.xlsx
