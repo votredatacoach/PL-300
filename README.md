@@ -1,54 +1,61 @@
 # PL-300
 
-<div align="center">
+Liens directs a copier-coller pour suivre les tutos PL-300.
 
-## Fichiers Excel pour les exercices PL-300
+Chaque section contient uniquement l'URL brute de telechargement du fichier.
 
-Le plus important ici: recuperer rapidement le bon lien a copier-coller pour suivre les tutos.
-
-[![Fichier consolide](https://img.shields.io/badge/Fichier%20consolide-Ventes.xlsx-1f6feb?style=for-the-badge)](https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Ventes.xlsx)
-[![Copier les liens](https://img.shields.io/badge/CTA-Copier%20les%20liens-2da44e?style=for-the-badge)](#zone-copie-rapide)
-
-</div>
-
-## Zone copie rapide
-
-Le CTA principal du depot est ici: prends la ligne voulue, copie le lien, puis colle-le dans le tuto.
+## DimProduct.xlsx
 
 ```text
-DimProduct.xlsx               https://github.com/votredatacoach/PL-300/raw/refs/heads/main/DimProduct.xlsx
-DimProductCategory.xlsx       https://github.com/votredatacoach/PL-300/raw/refs/heads/main/DimProductCategory.xlsx
-DimProductSubcategory.xlsx    https://github.com/votredatacoach/PL-300/raw/refs/heads/main/DimProductSubcategory.xlsx
-Product.xlsx                  https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Product.xlsx
-Region.xlsx                   https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Region.xlsx
-Salesperson.xlsx              https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Salesperson.xlsx
-SalespersonRegion.xlsx        https://github.com/votredatacoach/PL-300/raw/refs/heads/main/SalespersonRegion.xlsx
-Targets.xlsx                  https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Targets.xlsx
-Ventes.xlsx                   https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Ventes.xlsx
+https://github.com/votredatacoach/PL-300/raw/refs/heads/main/DimProduct.xlsx
 ```
 
-## Acces rapide
+## DimProductCategory.xlsx
 
-| Fichier | Ouvrir | Lien a copier |
-| --- | --- | --- |
-| `DimProduct.xlsx` | [Telecharger](https://github.com/votredatacoach/PL-300/raw/refs/heads/main/DimProduct.xlsx) | `https://github.com/votredatacoach/PL-300/raw/refs/heads/main/DimProduct.xlsx` |
-| `DimProductCategory.xlsx` | [Telecharger](https://github.com/votredatacoach/PL-300/raw/refs/heads/main/DimProductCategory.xlsx) | `https://github.com/votredatacoach/PL-300/raw/refs/heads/main/DimProductCategory.xlsx` |
-| `DimProductSubcategory.xlsx` | [Telecharger](https://github.com/votredatacoach/PL-300/raw/refs/heads/main/DimProductSubcategory.xlsx) | `https://github.com/votredatacoach/PL-300/raw/refs/heads/main/DimProductSubcategory.xlsx` |
-| `Product.xlsx` | [Telecharger](https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Product.xlsx) | `https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Product.xlsx` |
-| `Region.xlsx` | [Telecharger](https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Region.xlsx) | `https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Region.xlsx` |
-| `Salesperson.xlsx` | [Telecharger](https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Salesperson.xlsx) | `https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Salesperson.xlsx` |
-| `SalespersonRegion.xlsx` | [Telecharger](https://github.com/votredatacoach/PL-300/raw/refs/heads/main/SalespersonRegion.xlsx) | `https://github.com/votredatacoach/PL-300/raw/refs/heads/main/SalespersonRegion.xlsx` |
-| `Targets.xlsx` | [Telecharger](https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Targets.xlsx) | `https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Targets.xlsx` |
-| `Ventes.xlsx` | [Telecharger](https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Ventes.xlsx) | `https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Ventes.xlsx` |
+```text
+https://github.com/votredatacoach/PL-300/raw/refs/heads/main/DimProductCategory.xlsx
+```
 
-## Fichier consolide
+## DimProductSubcategory.xlsx
 
-`Ventes.xlsx` regroupe 31 fichiers mensuels provenant du dossier `Extraction/`.
+```text
+https://github.com/votredatacoach/PL-300/raw/refs/heads/main/DimProductSubcategory.xlsx
+```
+
+## Product.xlsx
+
+```text
+https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Product.xlsx
+```
+
+## Region.xlsx
+
+```text
+https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Region.xlsx
+```
+
+## Salesperson.xlsx
+
+```text
+https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Salesperson.xlsx
+```
+
+## SalespersonRegion.xlsx
+
+```text
+https://github.com/votredatacoach/PL-300/raw/refs/heads/main/SalespersonRegion.xlsx
+```
+
+## Targets.xlsx
+
+```text
+https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Targets.xlsx
+```
+
+## Ventes.xlsx
+
+Fichier consolide des ventes a partir des extractions mensuelles.
 
 ```text
 https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Ventes.xlsx
 ```
-
-## Astuce
-
-Sur GitHub, il n'est pas possible d'ajouter un vrai bouton JavaScript de copie dans le README. Le format ci-dessus est donc le plus propre et le plus simple pour que les apprenants puissent cliquer ou copier rapidement.
