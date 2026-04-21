@@ -2,6 +2,19 @@
 
 Bienvenue. Pour importer un fichier dans Power Query, cliquez sur `Nouvelle source` puis `Web`, copiez-collez le lien du fichier a importer ci-dessous, puis pensez a renommer votre requete dans Power Query.
 
+## Calendrier
+
+```dax
+Calendrier =
+ADDCOLUMNS (
+	CALENDARAUTO (),
+	"Annee", YEAR ( [Date] ),
+	"Mois", FORMAT ( [Date], "MMMM" ),
+	"NumMois", MONTH ( [Date] ),
+	"Trimestre", "T" & FORMAT ( [Date], "Q" )
+)
+```
+
 ## DimProduct.xlsx
 
 ```text
