@@ -68,9 +68,14 @@ https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Targets.xlsx
 ```text
 https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Ventes.xlsx
 ```
-
 ## PL 300.zip
 
 ```text
 https://github.com/votredatacoach/PL-300/raw/refs/heads/main/PL%20300.zip
+```
+
+## Evaluation des competences
+
+```text
+https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Evaluation%20des%20comp%C3%A9tences%20-%20PL-300-%20Benjamin%20Ejzenberg.xlsx
 ```
