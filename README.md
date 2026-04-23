@@ -79,3 +79,29 @@ https://github.com/votredatacoach/PL-300/raw/refs/heads/main/PL%20300.zip
 ```text
 https://github.com/votredatacoach/PL-300/raw/refs/heads/main/Evaluation%20des%20comp%C3%A9tences%20-%20PL-300-%20Benjamin%20Ejzenberg.xlsx
 ```
+
+## Defi
+
+### clients.csv
+
+```text
+https://github.com/votredatacoach/PL-300/raw/refs/heads/main/D%C3%A9fi/clients.csv
+```
+
+### products.csv
+
+```text
+https://github.com/votredatacoach/PL-300/raw/refs/heads/main/D%C3%A9fi/products.csv
+```
+
+### returns.csv
+
+```text
+https://github.com/votredatacoach/PL-300/raw/refs/heads/main/D%C3%A9fi/returns.csv
+```
+
+### sales extract.zip
+
+```text
+https://github.com/votredatacoach/PL-300/raw/refs/heads/main/D%C3%A9fi/sales%20extract.zip
+```
